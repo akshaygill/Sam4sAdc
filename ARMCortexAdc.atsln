@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Project1-AdcUsingASF", "Project1-AdcUsingASF\Project1-AdcUsingASF.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Project2-AdcUsingRegisters", "Project2-AdcUsingRegisters\Project2-AdcUsingRegisters.cproj", "{56CCC13E-7501-4E75-861E-29C7A49530B7}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Project3-AdcTempSensor", "Project3-AdcTempSensor\Project3-AdcTempSensor.cproj", "{0E656AA9-8E81-4130-9682-3BDE783FFFB2}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Project4-AdcTempSensorUsingRegisters", "Project4-AdcTempSensorUsingRegisters\Project4-AdcTempSensorUsingRegisters.cproj", "{1CFA5873-574F-42EC-B67D-52628CC0FCD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|ARM.Build.0 = Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|ARM.ActiveCfg = Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|ARM.Build.0 = Release|ARM
+		{56CCC13E-7501-4E75-861E-29C7A49530B7}.Debug|ARM.ActiveCfg = Debug|ARM
+		{56CCC13E-7501-4E75-861E-29C7A49530B7}.Debug|ARM.Build.0 = Debug|ARM
+		{56CCC13E-7501-4E75-861E-29C7A49530B7}.Release|ARM.ActiveCfg = Release|ARM
+		{56CCC13E-7501-4E75-861E-29C7A49530B7}.Release|ARM.Build.0 = Release|ARM
+		{0E656AA9-8E81-4130-9682-3BDE783FFFB2}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0E656AA9-8E81-4130-9682-3BDE783FFFB2}.Debug|ARM.Build.0 = Debug|ARM
+		{0E656AA9-8E81-4130-9682-3BDE783FFFB2}.Release|ARM.ActiveCfg = Release|ARM
+		{0E656AA9-8E81-4130-9682-3BDE783FFFB2}.Release|ARM.Build.0 = Release|ARM
+		{1CFA5873-574F-42EC-B67D-52628CC0FCD1}.Debug|ARM.ActiveCfg = Debug|ARM
+		{1CFA5873-574F-42EC-B67D-52628CC0FCD1}.Debug|ARM.Build.0 = Debug|ARM
+		{1CFA5873-574F-42EC-B67D-52628CC0FCD1}.Release|ARM.ActiveCfg = Release|ARM
+		{1CFA5873-574F-42EC-B67D-52628CC0FCD1}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
